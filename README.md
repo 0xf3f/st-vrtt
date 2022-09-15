@@ -1,4 +1,4 @@
-# A React single page starter template
+# A react single page starter template
 
 [Demo Page](https://0xf3f.github.io/st-vrtt/)
 
