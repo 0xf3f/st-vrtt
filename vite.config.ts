@@ -7,6 +7,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
+  base: '/st-vrtt/',
   test: {
     globals: true,
     environment: 'jsdom',
