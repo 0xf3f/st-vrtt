@@ -8,3 +8,4 @@
 - Typescript
 - Tailwind CSS
 - Github Actions
+- pnpm
